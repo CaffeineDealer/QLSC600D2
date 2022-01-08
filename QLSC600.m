@@ -1,8 +1,7 @@
 %% Welcome To MATLAB Tutorial
-% * *QLSC600D2 MATLAB Bootcamp* winter 2021 @McGill University
-% * *Contact Info* yavar.korkian@gmail.com  yavar.korkian@mail.mcgill.ca
-% * *Zoom Office Hours* Every Monday & Wednesday @ 9:30-10:30 AM (ET)
-% * *If you are in a different time zone than ET please contact me and we will figure something out to assist you*
+% * *Computational Neuroscience MATLAB Bootcamp winter 2022 @McGill University
+% * *Contact Info* yavar.korkian@gmail.com
+% * *Zoom Office Hours Every Monday @ 9-10 AM (ET)
 % * *Reference* MATLAB Documentation (in Command Window >> doc/help name_of_the_function)
 % * *Version* MATLAB 2016b
 %% MATLAB Environment
